@@ -38,4 +38,17 @@ body {
 	background-color: #512DA8; 
 }
 
+input[type="radio"]{
+	margin: 0 20px 0 20px;
+}
+
+#cardHeader {
+	background-color: #FFAB00;
+}
+
+.btn-block {
+	background-color: #FFAB00;
+	color: floralwhite;
+}
+
 
