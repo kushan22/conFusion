@@ -62,4 +62,12 @@ input[type="radio"]{
 	margin-bottom: 20px;
 }
 
+#exampleEmail{
+	margin-right: 10px;
+}
+
+.form-check{
+	margin-left: 10px;
+}
+
 
