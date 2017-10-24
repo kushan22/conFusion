@@ -30,13 +30,14 @@ body {
 
 .navbar-dark {
   background-color: #512DA8; }
-
-.navbar-inverse {
+  .navbar-inverse {
   background-color: #512DA8; 
 }
+
 input[type="radio"]{
   margin: 0 20px 0 20px;
 }
+
 #cardHeader {
   background-color: #FFAB00;
 }
@@ -48,6 +49,7 @@ input[type="radio"]{
 .card {
   margin-bottom: 20px;
 }
+
 #exampleEmail{
   margin-right: 10px;
 }
@@ -55,7 +57,6 @@ input[type="radio"]{
 .form-check{
   margin-left: 10px;
 }
-
 
 .tab-content {
   border-left: 1px solid #ddd;
